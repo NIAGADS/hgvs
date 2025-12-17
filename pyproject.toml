@@ -48,7 +48,7 @@ dependencies = [
   "importlib_resources",
   "ipython",
   "parsley",
-  "psycopg2",
+  "psycopg2-binary",
 ]
 description = "HGVS Parser, Formatter, Mapper, Validator"
 dynamic = ["version"]
