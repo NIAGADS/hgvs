@@ -26,6 +26,7 @@ dev = [
 ]
 
 [project]
+version = "1.5.5"
 authors = [
   {email = "biocommons-dev@googlegroups.com", name = "biocommons contributors"}
 ]
@@ -51,7 +52,7 @@ dependencies = [
   "psycopg2-binary",
 ]
 description = "HGVS Parser, Formatter, Mapper, Validator"
-dynamic = ["version"]
+# dynamic = ["version"]
 keywords = [
   "biocommons",
   "bioinformatics",
